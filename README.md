@@ -1,33 +1,36 @@
-# Working with Threads
-This project is made for analyzing queueing based systems with clients and implements the following: -User Interface; -Multithreading; -Queues Evolution in Real Time;
+# Programming Techniques used:
+For these projects the following programming techniques were used: -User Interfaces; -Multithreading; -Database Connection; -Relational Databases; -Composite Design Pattern; -Design by Contract; -Reflection Techniques; -Observer Design Pattern; -Lambda Expressions; -Stream Processing; -Polynomial Operations -Data Serialization; -Queues Evolution in Real Time; -Data Structures; -Layered Architecture;
 
-## User's Interface
+## User Interfaces
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/1.%20Restaurant%20Management.png)
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/2.%20Polynomial%20Operations.png)
 ![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/3.%20Working%20with%20Threads.png)
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/4.%20Database%20and%20Reflexion%20Techniques.png)
 
 ## Getting Started
-You can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, this project's code can be found in the src folder.
+For each project you can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, each has his own README and code can be found in the attached folders where .java files are.
 
 ### Installing
-NO NEED FOR INSTALLATION !
+NO NEED FOR INSTALLATION ! For each project:
 Just open .exe file:
 ```
-Double click on 3. Working with Threads.exe
+Double click on "Application Name".exe
 ```
 If that does not work, open .jar file:
 ```
-Double click on 3. Working with Threads.jar
+Double click on "Application Name".jar
 ```
-If both do not work, a new project must be created containing the src folder, then run.
+If both do not work, a new project must be created containing the folders file the .java files, then run.
 
 ### Prerequisites
-You need to have these installed:
+For each project you need to have at least these installed:
 ```
 -java jre: https://www.java.com/en/download/
 -java jdk 11.0.3 or higher: https://www.oracle.com/technetwork/java/javase/downloads/index.html
 ```
 
-### Built With
+### Applications Were Built With
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
 
 ### Warning !
-You might get a warning because the .exe file was not certificated, but it is a trusted file. For the .jar file there should be no warning !
+For each project you might get a warning because the .exe files were not certificated, but those are trusted files. For the .jar versions there should be no warning !
