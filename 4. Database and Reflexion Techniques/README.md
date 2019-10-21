@@ -24,11 +24,12 @@ You need to have these installed:
 ```
 -java jre: https://www.java.com/en/download/
 -java jdk 11.0.3 or higher: https://www.oracle.com/technetwork/java/javase/downloads/index.html
--mariaDb or any other Database Server: https://mariadb.org/download/
+-a Database Server: https://mariadb.org/download/
 ```
 
 ### Built With
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
+* [MariaDB](https://mariadb.org/) - The Database Server used
 
 ### Warning !
 You might get a warning because the .exe file was not certificated, but it is a trusted file. For the .jar file there should be no warning !
