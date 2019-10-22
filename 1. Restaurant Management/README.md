@@ -40,5 +40,6 @@ You need to have these installed:
 
 ### Warning !
 ```
-! You might get a warning because the .exe file was not certificated, but it is a trusted file ! For the .jar file there should be no warning !
+! You might get a warning because the .exe file was not certificated, but it is a trusted file !
+For the .jar file there should be no warning !
 ```
