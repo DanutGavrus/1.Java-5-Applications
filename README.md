@@ -1,10 +1,27 @@
 # Programming Techniques used:
-For these projects the following programming techniques were used: -User Interfaces; -Multithreading; -Database Connection; -Relational Databases; -Composite Design Pattern; -Design by Contract; -Reflection Techniques; -Observer Design Pattern; -Lambda Expressions; -Stream Processing; -Polynomial Operations -Data Serialization; -Queues Evolution in Real Time; -Data Structures; -Layered Architecture;
+For these projects the following programming techniques were used:
+```
+-User Interfaces;
+-Multithreading;
+-Database Connection;
+-Relational Databases;
+-Composite Design Pattern;
+-Design by Contract;
+-Reflection Techniques;
+-Observer Design Pattern;
+-Lambda Expressions;
+-Stream Processing;
+-Polynomial Operations;
+-Data Serialization;
+-Queues Evolution in Real Time;
+-Data Structures;
+-Layered Architecture;.
+```
 
 ## User Interfaces
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/1.%20Restaurant%20Management.png)
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/2.%20Polynomial%20Operations.png)
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/3.%20Working%20with%20Threads.png)
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/1.%20Restaurant%20Management.png)<br/>
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/2.%20Polynomial%20Operations.png)<br/>
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/3.%20Working%20with%20Threads.png)<br/>
 ![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/4.%20Database%20and%20Reflexion%20Techniques.png)
 
 ## Getting Started
@@ -22,6 +39,11 @@ Double click on "Application Name".jar
 ```
 If both do not work, a new project must be created containing the folders file the .java files, then run.
 
+### Warning !
+```
+! For each project you might get a warning because the .exe files were not certificated, but those are trusted files ! For the .jar versions there should be no warning.
+```
+
 ### Prerequisites
 For each project you need to have at least these installed:
 ```
@@ -31,6 +53,3 @@ For each project you need to have at least these installed:
 
 ### Applications Were Built With
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
-
-### Warning !
-For each project you might get a warning because the .exe files were not certificated, but those are trusted files. For the .jar versions there should be no warning !
