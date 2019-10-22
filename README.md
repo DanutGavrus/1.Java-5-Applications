@@ -19,9 +19,9 @@ For these projects the following programming techniques were used:
 ```
 
 ## User Interfaces
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/1.%20Restaurant%20Management.png)<br/>
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/2.%20Polynomial%20Operations.png)<br/>
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/3.%20Working%20with%20Threads.png)<br/>
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/1.%20Restaurant%20Management.png)<br/><br/><br/>
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/2.%20Polynomial%20Operations.png)<br/><br/><br/>
+![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/3.%20Working%20with%20Threads.png)<br/><br/><br/>
 ![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/4.%20Database%20and%20Reflexion%20Techniques.png)
 
 ## Getting Started
