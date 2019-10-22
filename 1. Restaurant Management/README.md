@@ -28,6 +28,11 @@ Double click on 1. Restaurant Management.jar
 ```
 If both do not work, a new project must be created containing the 3 attached layer folders, then run.
 
+### Warning !
+```
+! You might get a warning because the .exe file was not certificated, but it is a trusted file ! For the .jar file there should be no warning.
+```
+
 ### Prerequisites
 You need to have these installed:
 ```
@@ -37,9 +42,3 @@ You need to have these installed:
 
 ### Built With
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
-
-### Warning !
-```
-! You might get a warning because the .exe file was not certificated, but it is a trusted file !
-For the .jar file there should be no warning !
-```
