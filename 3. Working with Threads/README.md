@@ -1,5 +1,10 @@
 # Working with Threads
-This project is made for analyzing queueing based systems with clients and implements the following: -User Interface; -Multithreading; -Queues Evolution in Real Time;
+This project is made for analyzing queueing based systems with clients and implements the following:
+```
+-User Interface;
+-Multithreading;
+-Queues Evolution in Real Time;
+```
 
 ## User's Interface
 ![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/3.%20Working%20with%20Threads.png)
@@ -19,6 +24,11 @@ Double click on 3. Working with Threads.jar
 ```
 If both do not work, a new project must be created containing the src folder, then run.
 
+### Warning !
+```
+! You might get a warning because the .exe file was not certificated, but it is a trusted file ! For the .jar file there should be no warning.
+```
+
 ### Prerequisites
 You need to have these installed:
 ```
@@ -28,6 +38,3 @@ You need to have these installed:
 
 ### Built With
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
-
-### Warning !
-You might get a warning because the .exe file was not certificated, but it is a trusted file. For the .jar file there should be no warning !
