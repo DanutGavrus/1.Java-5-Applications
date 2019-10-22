@@ -1,5 +1,14 @@
 # Restaurant Management
-This project is made for a restaurant's management system and implements the following: -User Interface; -Composite Design Pattern; -Design by Contract; -Observer Design Pattern; -Data Serialization; -FileWriter Class; -Layered Architecture;
+This project is made for a restaurant's management system and implements the following:
+```
+-User Interface;
+-Composite Design Pattern;
+-Design by Contract;
+-Observer Design Pattern;
+-Data Serialization;
+-FileWriter Class;
+-Layered Architecture.
+```
 
 ## User's Interface
 ![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/1.%20Restaurant%20Management.png)
@@ -30,4 +39,6 @@ You need to have these installed:
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
 
 ### Warning !
-You might get a warning because the .exe file was not certificated, but it is a trusted file. For the .jar file there should be no warning !
+```
+! You might get a warning because the .exe file was not certificated, but it is a trusted file ! For the .jar file there should be no warning !
+```
