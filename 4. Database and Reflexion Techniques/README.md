@@ -1,5 +1,12 @@
 # Database and Reflexion Techniques
-This project is made for processing customer orders for a warehouse by connecting to a database and implements the following: -User Interface; -Database Connection; -Relational Databases; -Reflection Techniques; -Layered Architecture.
+This project is made for processing customer orders for a warehouse by connecting to a database and implements the following:
+```
+-User Interface;
+-Database Connection;
+-Relational Databases;
+-Reflection Techniques;
+-Layered Architecture.
+```
 
 ## User's Interface
 ![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/4.%20Database%20and%20Reflexion%20Techniques.png)
@@ -19,6 +26,11 @@ Double click on 4. Database and Reflexion Techniques.jar
 ```
 If both do not work, a new project must be created containing the layer folders and the connector "mysql-connector-java-8.0.15.jar" included as a library. A database containing 3 tables: "client" "product" "orders" each one with its columns as seen in their representative classes, then run.
 
+### Warning !
+```
+! You might get a warning because the .exe file was not certificated, but it is a trusted file ! For the .jar file there should be no warning.
+```
+
 ### Prerequisites
 You need to have these installed:
 ```
@@ -30,6 +42,3 @@ You need to have these installed:
 ### Built With
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
 * [MariaDB](https://mariadb.org/) - The Database Server used
-
-### Warning !
-You might get a warning because the .exe file was not certificated, but it is a trusted file. For the .jar file there should be no warning !
