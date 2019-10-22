@@ -1,5 +1,9 @@
 # Polynomial Operations
-This project is made for polynomial processing and implements the following: -User Interface; -Polynomial Operations: Addition, Substraction, Multiplication, Division, Derivation, Integration.
+This project is made for polynomial processing and implements the following:
+```
+-User Interface;
+-Polynomial Operations: Addition, Substraction, Multiplication, Division, Derivation, Integration.
+```
 
 ## User's Interface
 ![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/2.%20Polynomial%20Operations.png)
@@ -19,6 +23,11 @@ Double click on 2. Polynomial Operations.jar
 ```
 If both do not work, a new project must be created containing the src folder, then run.
 
+### Warning !
+```
+! You might get a warning because the .exe file was not certificated, but it is a trusted file ! For the .jar file there should be no warning.
+```
+
 ### Prerequisites
 You need to have these installed:
 ```
@@ -28,6 +37,3 @@ You need to have these installed:
 
 ### Built With
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
-
-### Warning !
-You might get a warning because the .exe file was not certificated, but it is a trusted file. For the .jar file there should be no warning !
