@@ -19,10 +19,10 @@ For these projects the following programming techniques were used:
 ```
 
 ## User Interfaces
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/1.%20Restaurant%20Management.png)<br/><br/><br/>
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/2.%20Polynomial%20Operations.png)<br/><br/><br/>
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/3.%20Working%20with%20Threads.png)<br/><br/><br/>
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/4.%20Database%20and%20Reflexion%20Techniques.png)
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Polynomial%20Operations.png)<br/><br/><br/>
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Working%20with%20Threads.png)<br/><br/><br/>
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/4.%20Database%20and%20Reflexion%20Techniques.png)
 
 ## Getting Started
 For each project you can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, each has his own README and code can be found in the attached folders where .java files are.
