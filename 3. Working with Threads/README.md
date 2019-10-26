@@ -7,7 +7,7 @@ This project is made for analyzing queueing based systems with clients and imple
 ```
 
 ## User's Interface
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/3.%20Working%20with%20Threads.png)
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Working%20with%20Threads.png)
 
 ## Getting Started
 You can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, this project's code can be found in the src folder.

@@ -6,7 +6,7 @@ This project is made for polynomial processing and implements the following:
 ```
 
 ## User's Interface
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/2.%20Polynomial%20Operations.png)
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Polynomial%20Operations.png)
 
 ## Getting Started
 You can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, this project's code can be found in the src folder.

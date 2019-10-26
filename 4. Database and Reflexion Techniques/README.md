@@ -9,7 +9,7 @@ This project is made for processing customer orders for a warehouse by connectin
 ```
 
 ## User's Interface
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/4.%20Database%20and%20Reflexion%20Techniques.png)
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/4.%20Database%20and%20Reflexion%20Techniques.png)
 
 ## Getting Started
 You can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, this project's code can be found in the layer folders.

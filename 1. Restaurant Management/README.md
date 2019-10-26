@@ -11,7 +11,7 @@ This project is made for a restaurant's management system and implements the fol
 ```
 
 ## User's Interface
-![alt text](https://github.com/DanutGavrus/Java-Applications/blob/master/0.%20User%20Interfaces/1.%20Restaurant%20Management.png)
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)
 
 ## Getting Started
 You can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, this project's code can be found in the 3 layer folders.
