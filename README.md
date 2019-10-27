@@ -41,7 +41,7 @@ If both do not work, a new project must be created containing the folders file t
 
 ### Warning !
 ```
-! For each project you might get a warning because the .exe files were not certificated, but those are trusted files ! For the .jar versions there should be no warning.
+! For each project you might get a warning because .exe files were not certificated, but those are trusted files ! For the .jar versions there should be no warning.
 ```
 
 ### Prerequisites
