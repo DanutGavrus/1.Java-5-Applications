@@ -15,7 +15,7 @@ For these projects the following programming techniques were used:
 -Data Serialization;
 -Queues Evolution in Real Time;
 -Data Structures;
--Layered Architecture;.
+-Layered Architecture.
 ```
 
 ## User Interfaces
