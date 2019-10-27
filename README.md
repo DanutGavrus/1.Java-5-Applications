@@ -26,8 +26,9 @@ For these projects the following programming techniques were used:
 3. Working with Threads
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Working%20with%20Threads.png)<br/><br/><br/>
 4. Database and Reflexion Techniques
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/4.%20Database%20and%20Reflexion%20Techniques.png)
-5. Lambda Expressions and Stream Processing: no UI was implemented for this, just some simple messages appear.
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/4.%20Database%20and%20Reflexion%20Techniques.png)<br/><br/><br/>
+5. Lambda Expressions and Stream Processing<br/>
+No UI was implemented for this, just some simple messages appear.
 
 ## Getting Started
 For each project you can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, each has his own README and code can be found in the attached folders where .java files are.
