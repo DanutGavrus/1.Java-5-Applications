@@ -41,4 +41,4 @@ You need to have these installed:
 
 ### Built With
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
-* [MariaDB](https://mariadb.org/) - The Database Server used
+* [MariaDB](https://mariadb.org/) - The Database Server used 

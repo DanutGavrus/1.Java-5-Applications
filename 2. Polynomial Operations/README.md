@@ -36,4 +36,4 @@ You need to have these installed:
 ```
 
 ### Built With
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used 
