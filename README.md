@@ -58,4 +58,4 @@ For each project you need to have at least these installed:
 ```
 
 ### Applications Were Built With
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used 
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE useds
