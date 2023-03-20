@@ -1,61 +1,35 @@
 # Programming Techniques used:
 For these projects the following programming techniques were used:
 ```
--User Interfaces;
--Multithreading;
--Database Connection;
--Relational Databases;
--Composite Design Pattern;
--Design by Contract;
--Reflection Techniques;
--Observer Design Pattern;
--Lambda Expressions;
--Stream Processing;
--Polynomial Operations;
--Data Serialization;
--Queues Evolution in Real Time;
--Data Structures;
+-User Interfaces.
+-Multithreading.
+-Database Connection.
+-Relational Databases.
+-Composite Design Pattern.
+-Design by Contract.
+-Reflection Techniques.
+-Observer Design Pattern.
+-Lambda Expressions.
+-Stream Processing.
+-Polynomial Operations.
+-Data Serialization.
+-Queues Evolution in Real Time.
+-Data Structures.
 -Layered Architecture.
 ```
 
 ## User Interfaces
-1. Restaurant Management
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
-2. Polynomial Operations
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Polynomial%20Operations.png)<br/><br/><br/>
-3. Working with Threads
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Working%20with%20Threads.png)<br/><br/><br/>
-4. Database and Reflexion Techniques
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/4.%20Database%20and%20Reflexion%20Techniques.png)<br/><br/><br/>
-5. Lambda Expressions and Stream Processing<br/>
+###### Restaurant Management
+![Restaurant Management](https://user-images.githubusercontent.com/56603839/226354543-7c2efa7b-07d7-426f-8422-384ab74f4fcc.png)
+###### Polynomial Operations
+![Polynomial Operations](https://user-images.githubusercontent.com/56603839/226354592-98ea0f4a-8a38-49ad-a38c-717129bc2906.png)
+###### Working with Threads
+![Working with Threads](https://user-images.githubusercontent.com/56603839/226354672-69522edf-75a6-4613-a9e9-310a490e4bc1.png)
+###### Database and Reflexion Techniques
+![Database and Reflexion Techniques](https://user-images.githubusercontent.com/56603839/226354778-7bbdffb3-7479-403c-8f74-ed7b3ffcff10.png)
+###### Lambda Expressions and Stream Processing
 No UI was implemented for this, just some simple messages appear.
 
 ## Getting Started
-For each project you can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, each has his own README and code can be found in the attached folders where .java files are.
-
-### Installing
-NO NEED FOR INSTALLATION ! For each project:
-Just open .exe file:
-```
-Double click on "Application Name".exe
-```
-If that does not work, open .jar file:
-```
-Double click on "Application Name".jar
-```
-If both do not work, a new project must be created containing the folders file the .java files, then run.
-
-### Warning !
-```
-! For each project you might get a warning because .exe files were not certificated, but those are trusted files ! For the .jar versions there should be no warning.
-```
-
-### Prerequisites
-For each project you need to have at least these installed:
-```
--java jre: https://www.java.com/en/download/
--java jdk 11.0.3 or higher: https://www.oracle.com/technetwork/java/javase/downloads/index.html
-```
-
-### Applications Were Built With
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE useds 
+For each project you can find both the .exe and .jar versions of the project.  
+Each has his own README and code may be found in the attached folders where .java files are.
