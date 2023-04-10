@@ -1,5 +1,5 @@
 # Programming Techniques used:
-For these projects the following programming techniques were used:
+For these projects the following programming techniques were used: 
 ```
 -User Interfaces.
 -Multithreading.
